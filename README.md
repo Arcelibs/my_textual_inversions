@@ -1,2 +1,2 @@
-# my_textual_inversions
-my_textual_inversions
+# 我的訓練模型
+來訓練一些模型
